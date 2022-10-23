@@ -2,4 +2,4 @@
 
 This is my portfolio !
 
-www.diogomalhao.pt for more information.
+https://diogomalhao.pt/ for more information.
